@@ -19,7 +19,19 @@ Jupyter Notebook用法
   
 ```
 
-Latex
+# Latex
 
-\dots
-$\dots$
+## 省略号
+  \dots
+  $\dots$
+
+### 在latex中，连续输入三个句号（即 .）来表示省略号是不规范的，具体的：
+
+    \cdots 是横向的居中的省略号
+    \vdots 是竖向的省略号
+    \ddots 是对角线方向的省略号
+    \ldots  是跟文本底线对齐的省略号
+
+## 公式自定义编号 
+
+  \tag{3.1}
