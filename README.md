@@ -32,7 +32,7 @@ Jupyter Notebook用法
     \ddots 是对角线方向的省略号
     \ldots  是跟文本底线对齐的省略号
    
-    $$
+$$
     Y=\{y_1, y_2, \ldots, y_n\},\\
     \begin{bmatrix}
     	x_{11} & x_{12}  & \cdots   & x_{1m}   \\
@@ -40,7 +40,7 @@ Jupyter Notebook用法
     	\vdots & \vdots  & \ddots   & \vdots  \\
     	x_{n1} & x_{n2}  & \cdots\  & x_{nm}  \\
     \end{bmatrix}
-    $$
+$$
     
 
 ## 公式自定义编号 
