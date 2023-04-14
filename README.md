@@ -33,5 +33,4 @@ Jupyter Notebook用法
     \ldots  是跟文本底线对齐的省略号
 
 ## 公式自定义编号 
-
-  \tag{3.1}
+    \tag{3.1}
