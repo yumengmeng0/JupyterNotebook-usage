@@ -47,5 +47,5 @@ $$
     \tag{3.1}
     
 # 
-\binom{n}{r}
+\binom{n}{r}  
 $$ \binom{n}{r} $$
