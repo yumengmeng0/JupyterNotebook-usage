@@ -47,5 +47,15 @@ $$
     \tag{3.1}
     
 # 
-\binom{n}{r}  
-$$ \binom{n}{r} $$
+\binom{n}{r}
+
+$$ 
+\binom{n}{r} 
+$$
+
+# 大于小于号
+ \leqslant \leq < > = \geq \geqslant   
+$$
+ \leqslant \leq < > = \geq \geqslant 
+$$
+
