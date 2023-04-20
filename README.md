@@ -59,3 +59,14 @@ $$
  \leqslant \leq < > = \geq \geqslant 
 $$
 
+## 极限符号
+
+行内
+\lim\limits
+
+$ \lim\limits_{x \to a^-} f(x) 和 \lim\limits_{x \to a^+} f(x) $
+
+块内
+\lim
+
+$$ \lim_{x \to a^-} f(x) = L  且 \lim_{x \to a^+} f(x) = L $$
